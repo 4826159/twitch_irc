@@ -1,0 +1,10 @@
+*.o
+*.a
+*.json
+*.code-workspace
+*.IN
+*.TXT
+twitch.user
+twitch.token
+log_irc
+t_irc
